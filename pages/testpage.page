@@ -1,0 +1,5 @@
+<apex:page >
+    <h1>
+        My First page
+    </h1>
+</apex:page>
